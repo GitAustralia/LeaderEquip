@@ -1,0 +1,2 @@
+README.TXT
+LeaderEquip is a repository positioned on GITHUB.COM in a HUB assigned to users. LeaderEquip is a Leaderships project designed to supply Leaders resources & Representational schemes. A Commander CMD is supplied by default, selected shells commanders include .ssh powershells
